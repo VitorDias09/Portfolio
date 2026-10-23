@@ -1,0 +1,13 @@
+# Referências
+
+Site 1: [https://aengel.io/]
+- O que copiar: [ex.: tipografia grande no topo, fundo escuro, cursor personalizado]
+- O que NÃO copiar: [ex.: menu lateral]
+
+Site 2: [nome e link]
+- O que copiar: ...
+- O que NÃO copiar: ...
+
+Site 3: [nome e link]
+- O que copiar: ...
+- O que NÃO copiar: ...

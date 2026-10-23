@@ -1,0 +1,10 @@
+# Identidade Visual
+- Cor principal: [#860038]
+- Cor de fundo: [#202124]
+- Cor de destaque: [#041E42]
+- Fonte de títulos: [Oswald]
+- Fonte de texto: [Inter]
+- Tom: [Técnico]
+- Nome: [Vitor R. Dias]
+- Cargo [Desenvolvedor em formação]
+- Frase de apresentação: [Sou um desenvolvedor em formação, apaixonado por tecnologia, programação e criação de projetos.]
